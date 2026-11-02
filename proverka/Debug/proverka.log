@@ -1,0 +1,19 @@
+﻿  proverka.cpp
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(128,25): warning C4305: аргумент: усечение из "double" в "float"
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(128,19): warning C4305: аргумент: усечение из "double" в "float"
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(131,25): warning C4305: аргумент: усечение из "double" в "float"
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(131,19): warning C4305: аргумент: усечение из "double" в "float"
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(156,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(156,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(196,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(196,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(246,23): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(247,24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(255,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(256,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(261,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(262,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(275,49): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(303,30): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\proverka\proverka.cpp(420,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  proverka.vcxproj -> E:\university\programming_university\Second_term\ISIP\ITIP_5\proverka\Debug\proverka.exe
