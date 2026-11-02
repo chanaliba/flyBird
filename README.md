@@ -1,4 +1,4 @@
-<img width="986" height="588" alt="image" src="https://github.com/user-attachments/assets/a57546d9-9fe4-48e8-85db-67d93f10d7f2" /># kukushka
+# kukushka
 
 Игра, где надо тапать, облетая препятствия
 Начальное окно:
